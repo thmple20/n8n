@@ -168,7 +168,7 @@ export default class CoreModel {
   async LeaveJob(req: RequestAuthType, res: Response) {
     const { phoneNumber, jobId } = req.body;
     const findUserQuery = `SELECT * FROM usertable WHERE user_phone = $1`;
-    const updateJobStatusQuery = `UPDATE public.user_jobs SET status = 'completed', end_time = $1 WHERE user_id = $2 AND job_id = $3 AND status = 'active' RETURNING *`;
+    const updateJobStatusQuery = `UPDATE public.user_jobs SET status = 'completed', end_time = $1 WHERE user_id = $2 AND status = 'active' RETURNING *`;
     try {
       const userResult = await pool.query(findUserQuery, [phoneNumber]);
       if (userResult.rows.length === 0) {
@@ -181,7 +181,6 @@ export default class CoreModel {
       const updatedJob = await pool.query(updateJobStatusQuery, [
         new Date().toISOString(),
         userId,
-        jobId,
       ]);
       if (updatedJob.rows.length === 0) {
         return res.status(200).json({
