@@ -1,0 +1,2318 @@
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-08  16:38:56'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-08  16:41:26'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E8hw__2bU2VaW9a9lHUY67hvUgIkHGrn8_mBVZoqng2lq1yfkJ661J5HF7yW65MUA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-08  16:41:45'
+}
+{
+  message: 'API hit: GET /favicon.ico',
+  level: 'info',
+  timestamp: '2026-04-08  16:41:45'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-08  16:47:32'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E_DMa_A7qvYWzgbIXuy5Ay3jTxdPR_jlyblGPWBeSy3HypCAL-mhFL_upPEYQpG_g&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-08  16:48:01'
+}
+{
+  message: 'API hit: GET /favicon.ico',
+  level: 'info',
+  timestamp: '2026-04-08  16:48:04'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-08  16:53:15'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E9dJnLUXzA-bXqhh61CbawoCQq5e1l-IPKJpYXCoAkZOgxxm8ze9vv0RnbFV4cNdA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-08  16:53:47'
+}
+{
+  message: 'API hit: POST /api/google-login',
+  level: 'info',
+  timestamp: '2026-04-08  16:55:43'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-08  17:27:41'
+}
+{
+  length: 121,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42P01',
+  detail: undefined,
+  hint: undefined,
+  position: '836',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '1428',
+  routine: 'parserOpenTable',
+  level: 'error',
+  timestamp: '2026-04-08  17:27:45'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-08  17:31:06'
+}
+{
+  message: 'API hit: POST /api/app-files',
+  level: 'info',
+  timestamp: '2026-04-08  17:39:06'
+}
+{
+  message: 'TypeError: (0 , Higherorderfunction_1.generateId) is not a function',
+  level: 'error',
+  timestamp: '2026-04-08  17:39:06'
+}
+{
+  message: 'API hit: POST /api/app-files',
+  level: 'info',
+  timestamp: '2026-04-08  17:41:33'
+}
+{
+  message: 'TypeError: (0 , Higherorderfunction_1.generateId) is not a function',
+  level: 'error',
+  timestamp: '2026-04-08  17:41:33'
+}
+{
+  message: 'API hit: POST /api/app-files',
+  level: 'info',
+  timestamp: '2026-04-08  17:43:36'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-08  17:44:13'
+}
+{
+  message: 'API hit: POST /api/google-login',
+  level: 'info',
+  timestamp: '2026-04-09  10:59:35'
+}
+{
+  message: 'Error: Invalid Google token',
+  level: 'error',
+  timestamp: '2026-04-09  10:59:35'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-09  10:59:49'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E8j-nZNWKKeie4u_XYUUYAYEAR22sqvWMWOhn9F7DcRxnuqFHlNnULiWdCs6Dgi2A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-09  11:00:15'
+}
+{
+  message: 'API hit: POST /api/google-login',
+  level: 'info',
+  timestamp: '2026-04-09  11:00:42'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-09  11:01:08'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-09  11:01:34'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-09  11:01:46'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-09  11:01:59'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E-GsfyJWiE2yCH0d-DvlfxCfj1KXiklXZnadii9XnmrRTpWHMIlgYP3mwdDh_2lRg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=1&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-09  11:02:16'
+}
+{
+  message: 'API hit: POST /api/google-login',
+  level: 'info',
+  timestamp: '2026-04-09  11:02:33'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-09  11:04:11'
+}
+{
+  message: 'API hit: POST /api/upload-crew-logo',
+  level: 'info',
+  timestamp: '2026-04-09  11:09:43'
+}
+{
+  message: 'API hit: POST /api/upload-crew-logo',
+  level: 'info',
+  timestamp: '2026-04-09  11:10:54'
+}
+{
+  message: 'API hit: POST /api/create-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:11:20'
+}
+{
+  message: 'API hit: POST /api/create-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:11:26'
+}
+{
+  message: 'API hit: PATCH /api/update-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:13:09'
+}
+{
+  message: 'API hit: PATCH /api/update-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:14:44'
+}
+{
+  length: 131,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '47',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'analyze.c',
+  line: '2528',
+  routine: 'transformUpdateTargetList',
+  level: 'error',
+  timestamp: '2026-04-09  11:14:47'
+}
+{
+  message: 'API hit: PATCH /api/update-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:18:12'
+}
+{
+  message: 'API hit: PATCH /api/update-crew/1',
+  level: 'info',
+  timestamp: '2026-04-09  11:18:30'
+}
+{
+  message: 'API hit: PATCH /api/update-crew/1',
+  level: 'info',
+  timestamp: '2026-04-09  11:18:43'
+}
+{
+  message: 'API hit: DELETE /api/delete-crew/1',
+  level: 'info',
+  timestamp: '2026-04-09  11:20:05'
+}
+{
+  message: 'API hit: POST /api/create-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:20:16'
+}
+{
+  message: 'API hit: POST /api/create-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:20:23'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  11:21:00'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  11:23:37'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:36:26'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  11:36:44'
+}
+{
+  message: 'API hit: POST /api/leave-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:38:06'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  11:38:15'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-04-09  11:38:20'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  11:38:26'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:08:45'
+}
+{
+  message: 'API hit: POST /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:08:49'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:09:46'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:09:54'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:10:24'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:12:38'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:15:21'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:18:01'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-09  12:19:35'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-09  12:21:16'
+}
+{
+  length: 170,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: 'Perhaps you meant to reference the column "c.crew_avtar".',
+  position: '50',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3723',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-04-09  12:21:20'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-09  12:21:54'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:23:09'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  12:23:19'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-04-09  12:23:50'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-09  12:23:58'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-10  10:25:17'
+}
+{
+  message: 'API hit: GET /api/getGoogleAuthUrl',
+  level: 'info',
+  timestamp: '2026-04-10  10:26:06'
+}
+{
+  message: 'API hit: GET /auth/google/callback?iss=https%3A%2F%2Faccounts.google.com&code=4%2F0Aci98E_bAgEJDYa0X1Cnqfpg1OAQXz2SMRE25umzB6JHJeuSeT3e8LxtMly38Mn2wO364w&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent',
+  level: 'info',
+  timestamp: '2026-04-10  10:26:26'
+}
+{
+  message: 'API hit: POST /api/google-login',
+  level: 'info',
+  timestamp: '2026-04-10  10:26:58'
+}
+{
+  message: 'API hit: GET /api/crew-vs-crew-leaderboard?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-10  10:29:01'
+}
+{
+  message: 'API hit: GET /api/crew-user-leaderboard',
+  level: 'info',
+  timestamp: '2026-04-10  10:30:56'
+}
+{
+  message: 'API hit: GET /api/global-user-leaderboard?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-10  10:32:14'
+}
+{
+  message: 'API hit: POST /api/signup',
+  level: 'info',
+  timestamp: '2026-04-11  10:36:55'
+}
+{
+  message: 'API hit: POST /api/admin/signup',
+  level: 'info',
+  timestamp: '2026-04-11  10:37:05'
+}
+{
+  message: 'API hit: POST /api/admin/login',
+  level: 'info',
+  timestamp: '2026-04-11  10:38:11'
+}
+{
+  message: 'API hit: GET /api/admin/my-info',
+  level: 'info',
+  timestamp: '2026-04-11  10:39:03'
+}
+{
+  message: 'API hit: PATCH /api/admin/my-info',
+  level: 'info',
+  timestamp: '2026-04-11  10:40:28'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:00:19'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:03:20'
+}
+{
+  length: 92,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42601',
+  detail: undefined,
+  hint: undefined,
+  position: '52',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'scan.l',
+  line: '1245',
+  routine: 'scanner_yyerror',
+  level: 'error',
+  timestamp: '2026-04-11  11:03:23'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:05:32'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:12:27'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:14:35'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:15:42'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=',
+  level: 'info',
+  timestamp: '2026-04-11  11:16:49'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=&role=child',
+  level: 'info',
+  timestamp: '2026-04-11  11:17:43'
+}
+{
+  message: 'API hit: GET /api/users/2',
+  level: 'info',
+  timestamp: '2026-04-11  11:19:00'
+}
+{
+  message: 'API hit: GET /api/users/2',
+  level: 'info',
+  timestamp: '2026-04-11  11:19:01'
+}
+{
+  message: 'API hit: GET /api/admin/users/2',
+  level: 'info',
+  timestamp: '2026-04-11  11:19:10'
+}
+{
+  message: 'API hit: PATCH /api/admin/users/2',
+  level: 'info',
+  timestamp: '2026-04-11  11:21:59'
+}
+{
+  message: 'API hit: GET /api/admin/users/2',
+  level: 'info',
+  timestamp: '2026-04-11  11:22:07'
+}
+{
+  message: 'API hit: POST /api/register',
+  level: 'info',
+  timestamp: '2026-04-13  10:43:15'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-13  10:44:56'
+}
+{
+  message: 'API hit: POST /api/login',
+  level: 'info',
+  timestamp: '2026-04-13  10:46:07'
+}
+{
+  message: 'API hit: POST /api/login',
+  level: 'info',
+  timestamp: '2026-04-13  10:58:20'
+}
+{
+  message: 'API hit: POST /api/admin/login',
+  level: 'info',
+  timestamp: '2026-04-13  11:07:57'
+}
+{
+  message: 'API hit: GET /api/crews?page=1&pageSize=10&search=',
+  level: 'info',
+  timestamp: '2026-04-13  11:09:27'
+}
+{
+  message: 'API hit: GET /api/admin/crews?page=1&pageSize=10&search=',
+  level: 'info',
+  timestamp: '2026-04-13  11:09:52'
+}
+{
+  message: 'API hit: GET /api/admin/crews/1',
+  level: 'info',
+  timestamp: '2026-04-13  11:10:30'
+}
+{
+  message: 'API hit: GET /api/admin/crews/2',
+  level: 'info',
+  timestamp: '2026-04-13  11:10:43'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-20  11:19:39'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-20  11:20:09'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-20  11:21:14'
+}
+{
+  message: 'API hit: POST /api/resend-otp',
+  level: 'info',
+  timestamp: '2026-04-20  11:22:04'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-22  10:37:59'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-22  10:38:27'
+}
+{
+  message: 'API hit: POST /api/upload-crew-logo',
+  level: 'info',
+  timestamp: '2026-04-22  10:39:21'
+}
+{
+  message: 'API hit: POST /api/create-crew',
+  level: 'info',
+  timestamp: '2026-04-22  10:40:20'
+}
+{
+  message: 'API hit: GET /api/crew-details',
+  level: 'info',
+  timestamp: '2026-04-22  10:40:53'
+}
+{
+  message: 'API hit: GET /api/crew-details/3',
+  level: 'info',
+  timestamp: '2026-04-22  10:42:10'
+}
+{
+  message: 'API hit: PATCH /api/update-crew/3',
+  level: 'info',
+  timestamp: '2026-04-22  10:44:20'
+}
+{
+  message: 'API hit: GET /api/crew-details/3',
+  level: 'info',
+  timestamp: '2026-04-22  10:44:27'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-04-22  10:49:49'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-22  15:00:53'
+}
+{
+  length: 111,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '8',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3716',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-04-22  15:00:57'
+}
+{
+  message: 'API hit: POST /api/admin/login',
+  level: 'info',
+  timestamp: '2026-04-23  11:26:49'
+}
+{
+  message: 'API hit: GET /api/admin/prefix',
+  level: 'info',
+  timestamp: '2026-04-23  11:27:49'
+}
+{
+  message: 'API hit: PATCH /api/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-23  11:28:57'
+}
+{
+  message: 'API hit: PATCH /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-23  11:29:04'
+}
+{
+  message: 'API hit: PATCH /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-23  11:29:15'
+}
+{
+  message: 'API hit: GET /api/admin/prefix',
+  level: 'info',
+  timestamp: '2026-04-23  11:29:24'
+}
+{
+  message: 'API hit: PATCH /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-23  11:29:33'
+}
+{
+  message: 'API hit: GET /api/admin/prefix',
+  level: 'info',
+  timestamp: '2026-04-23  11:29:37'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-23  11:31:43'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  11:32:15'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  11:32:25'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-23  11:32:47'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  11:33:16'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:04:07'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-23  12:04:27'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  12:05:32'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  12:06:01'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-23  12:06:11'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  12:07:00'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  12:07:17'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:07:46'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:07:50'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:08:15'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-23  12:08:32'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-23  12:09:26'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:09:50'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:10:32'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-04-23  12:11:55'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:13:10'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:16:09'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:17:50'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:19:18'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-04-23  12:19:53'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-04-23  12:20:04'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-23  12:20:25'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-04-23  12:21:50'
+}
+{
+  message: 'API hit: GET /api/crew-details/3',
+  level: 'info',
+  timestamp: '2026-04-23  12:25:52'
+}
+{
+  message: 'API hit: GET /api/crew-details/3',
+  level: 'info',
+  timestamp: '2026-04-23  12:29:34'
+}
+{
+  message: 'API hit: POST /api/admin/login',
+  level: 'info',
+  timestamp: '2026-04-25  10:45:04'
+}
+{
+  message: 'API hit: POST /api/ranks',
+  level: 'info',
+  timestamp: '2026-04-25  10:48:12'
+}
+{
+  message: 'API hit: POST /api/admin/ranks',
+  level: 'info',
+  timestamp: '2026-04-25  10:48:20'
+}
+{
+  message: 'API hit: GET /api/admin/ranks?page=1&pageSize=15&search=',
+  level: 'info',
+  timestamp: '2026-04-25  10:49:24'
+}
+{
+  message: 'API hit: PATCH /api/admin/ranks/1',
+  level: 'info',
+  timestamp: '2026-04-25  10:50:31'
+}
+{
+  message: 'API hit: POST /api/admin/ranks',
+  level: 'info',
+  timestamp: '2026-04-25  10:50:42'
+}
+{
+  message: 'API hit: DELETE /api/admin/ranks/1',
+  level: 'info',
+  timestamp: '2026-04-25  10:51:17'
+}
+{
+  message: 'API hit: POST /api/admin/app-files',
+  level: 'info',
+  timestamp: '2026-04-25  10:55:36'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-25  11:03:29'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-25  11:03:50'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-25  11:04:21'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-25  11:04:30'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-04-25  11:08:35'
+}
+{
+  message: 'API hit: GET /api/crew-details/3',
+  level: 'info',
+  timestamp: '2026-04-25  11:10:00'
+}
+{
+  message: 'API hit: GET /api/prefix?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-25  11:21:22'
+}
+{
+  message: 'API hit: GET /api/admin/prefix?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-25  11:21:44'
+}
+{
+  message: 'API hit: POST /api/admin/',
+  level: 'info',
+  timestamp: '2026-04-25  11:33:47'
+}
+{
+  message: 'API hit: POST /api/admin/prefix',
+  level: 'info',
+  timestamp: '2026-04-25  11:34:06'
+}
+{
+  message: 'API hit: GET /api/admin/prefix?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-25  11:34:14'
+}
+{
+  message: 'API hit: GET /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-25  11:35:38'
+}
+{
+  message: 'API hit: PATCH /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-25  11:35:47'
+}
+{
+  message: 'API hit: GET /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-25  11:36:00'
+}
+{
+  message: 'API hit: DELETE /api/admin/prefix/1',
+  level: 'info',
+  timestamp: '2026-04-25  11:36:25'
+}
+{
+  message: 'API hit: GET /api/admin/prefix?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-25  11:36:33'
+}
+{
+  message: 'API hit: GET /api/admin/prefix?page=1&pageSize=10',
+  level: 'info',
+  timestamp: '2026-04-25  11:42:41'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&is_blocked=&is_verified=&search=',
+  level: 'info',
+  timestamp: '2026-04-25  12:05:28'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&is_blocked=&is_verified=&search=',
+  level: 'info',
+  timestamp: '2026-04-25  12:05:36'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=',
+  level: 'info',
+  timestamp: '2026-04-25  12:35:06'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=',
+  level: 'info',
+  timestamp: '2026-04-25  12:35:20'
+}
+{
+  length: 137,
+  name: 'error',
+  severity: 'ERROR',
+  code: '08P01',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'postgres.c',
+  line: '1733',
+  routine: 'exec_bind_message',
+  level: 'error',
+  timestamp: '2026-04-25  12:35:24'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=',
+  level: 'info',
+  timestamp: '2026-04-25  12:37:07'
+}
+{
+  message: 'API hit: GET /api/admin/users?page=1&pageSize=10&search=&is_blocked=&is_verified=',
+  level: 'info',
+  timestamp: '2026-04-25  12:43:26'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-27  09:59:19'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-27  09:59:33'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-04-27  10:04:14'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-04-27  10:04:25'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-27  10:04:41'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-04-27  10:04:58'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-04-27  10:05:09'
+}
+{
+  message: 'API hit: GET /api/refresh-token',
+  level: 'info',
+  timestamp: '2026-04-27  10:23:29'
+}
+{
+  message: 'API hit: GET /api/refresh-token?deviceId=device_123',
+  level: 'info',
+  timestamp: '2026-04-27  10:24:26'
+}
+{
+  message: 'JsonWebTokenError: invalid signature',
+  level: 'error',
+  timestamp: '2026-04-27  10:24:28'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-27  10:24:39'
+}
+{
+  message: 'API hit: GET /api/refresh-token?deviceId=device_123',
+  level: 'info',
+  timestamp: '2026-04-27  10:24:58'
+}
+{
+  message: 'API hit: POST /api/admin/login',
+  level: 'info',
+  timestamp: '2026-04-27  10:46:43'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:48:23'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:48:51'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:51:33'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:53:16'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:56:49'
+}
+{
+  message: 'API hit: GET /api/admin/dashboard',
+  level: 'info',
+  timestamp: '2026-04-27  10:59:39'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-30  10:02:06'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-30  10:02:28'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:03:05'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:03:21'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-30  10:03:34'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:06:18'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:08:10'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:09:59'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-30  10:12:53'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:13:06'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-30  10:14:11'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-04-30  10:14:32'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=10&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:14:45'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:17:05'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:32:04'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:37:23'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:41:21'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:45:36'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:46:58'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-04-30  10:47:45'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:48:49'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:50:16'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:53:46'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  10:54:34'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  11:02:06'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  11:02:17'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  11:02:35'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  11:09:44'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  11:14:36'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-04-30  11:44:38'
+}
+{
+  message: 'API hit: GET /api/crew-details/11',
+  level: 'info',
+  timestamp: '2026-04-30  11:45:02'
+}
+{
+  message: 'API hit: GET /api/crew-details/11?type=today',
+  level: 'info',
+  timestamp: '2026-04-30  11:48:31'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-04-30  12:28:05'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-30  12:28:36'
+}
+{
+  message: 'API hit: DELETE /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  12:29:16'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  12:29:30'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  19:11:42'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-04-30  19:11:57'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-04-30  19:12:27'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-01  09:46:45'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-01  09:47:28'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-01  09:49:09'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-01  09:50:53'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-01  09:51:14'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-05-01  09:51:49'
+}
+{
+  length: 186,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: 'Perhaps you meant to reference the column "usertable.user_is_blocked".',
+  position: '66',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3723',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-05-01  09:51:53'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-01  09:53:08'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-05-01  09:53:18'
+}
+{
+  message: 'API hit: PATCH /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-01  09:53:31'
+}
+{
+  message: 'API hit: POST /api/join-crew',
+  level: 'info',
+  timestamp: '2026-05-01  09:53:40'
+}
+{
+  message: 'API hit: GET /api/my-crews?page=1&pageSize=15',
+  level: 'info',
+  timestamp: '2026-05-01  09:54:02'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-01  17:35:13'
+}
+{
+  message: 'API hit: POST /api/change-email',
+  level: 'info',
+  timestamp: '2026-05-01  17:38:24'
+}
+{
+  message: 'API hit: POST /api/change-email',
+  level: 'info',
+  timestamp: '2026-05-01  17:40:39'
+}
+{
+  message: 'API hit: POST /api/verify-email-change-otp',
+  level: 'info',
+  timestamp: '2026-05-01  17:43:24'
+}
+{
+  message: 'API hit: POST /api/verify-email-change-otp',
+  level: 'info',
+  timestamp: '2026-05-01  17:43:33'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-01  17:43:42'
+}
+{
+  message: 'API hit: POST /api/change-email',
+  level: 'info',
+  timestamp: '2026-05-01  17:44:13'
+}
+{
+  message: 'API hit: POST /api/change-email',
+  level: 'info',
+  timestamp: '2026-05-02  12:22:27'
+}
+{
+  message: 'API hit: POST /api/verify-email-change-otp',
+  level: 'info',
+  timestamp: '2026-05-02  12:24:08'
+}
+{
+  message: 'API hit: POST /api/verify-email-change-otp',
+  level: 'info',
+  timestamp: '2026-05-02  12:29:09'
+}
+{
+  message: 'API hit: POST /api/change-email',
+  level: 'info',
+  timestamp: '2026-05-02  12:29:26'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-05-02  15:23:38'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-02  15:23:57'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  15:24:41'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-05-02  15:36:58'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-02  15:37:15'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  15:37:41'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-02  15:38:42'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-02  15:39:26'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  15:39:51'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  15:42:36'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  15:45:13'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  16:01:56'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  16:09:49'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  16:24:45'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  16:55:19'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  16:56:31'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  16:58:36'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:00:17'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:08:55'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:09:50'
+}
+{
+  length: 120,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '136',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3716',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-05-02  17:09:54'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:16:04'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:16:15'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:16:22'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:22:42'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:22:54'
+}
+{
+  length: 120,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '136',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3716',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-05-02  17:22:55'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:28:33'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:28:41'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:28:46'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:32:07'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:32:16'
+}
+{
+  length: 120,
+  name: 'error',
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '133',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3716',
+  routine: 'errorMissingColumn',
+  level: 'error',
+  timestamp: '2026-05-02  17:32:17'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:36:10'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:36:18'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:36:32'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  17:41:49'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:43:03'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:48:33'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:49:44'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  17:55:36'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:03:20'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:09:39'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:09:50'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:10:03'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-02  18:36:34'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:15'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:18'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:28'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:34'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:40'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:48'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:53'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:37:57'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:40:30'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:40:38'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:40:44'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:40:52'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  18:40:58'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  18:41:02'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:41:23'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:41:35'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:41:46'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:41:52'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:42:15'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:42:25'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:42:30'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:47:28'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:47:39'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:47:48'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:47:53'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:49:53'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:50:06'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:52:02'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:52:15'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:57:56'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:58:08'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:58:20'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:58:26'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:58:48'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:58:55'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:59:01'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:59:15'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-02  19:59:22'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-02  19:59:27'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=20&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:39:45'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:40:07'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=30&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:40:39'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:41:23'
+}
+{
+  message: 'API hit: POST /api/register-and-login',
+  level: 'info',
+  timestamp: '2026-05-03  08:42:41'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-03  08:43:05'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:43:44'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:44:00'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:44:16'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:46:19'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:46:31'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:46:36'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:46:58'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:51:03'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:53:57'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  08:57:46'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:57:58'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  08:59:17'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:02:18'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:04:05'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:06:28'
+}
+{
+  message: 'API hit: GET /api/active-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:09:02'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:09:27'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  09:09:42'
+}
+{
+  message: 'API hit: GET /api/start-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:09:59'
+}
+{
+  message: 'API hit: POST /api/end-mission',
+  level: 'info',
+  timestamp: '2026-05-03  09:10:15'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  09:10:23'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  09:11:48'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  09:30:23'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  09:36:56'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  09:55:36'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  09:56:01'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-03  09:56:28'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-03  09:57:02'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  09:57:15'
+}
+{
+  message: 'API hit: GET /api/my-info',
+  level: 'info',
+  timestamp: '2026-05-03  10:03:27'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-04  10:08:04'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-04  10:08:39'
+}
+{
+  message: 'API hit: POST /api/verify-otp',
+  level: 'info',
+  timestamp: '2026-05-04  10:09:10'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-04  10:09:33'
+}
+{
+  message: 'API hit: GET /api/mission-history?page=1&pageSize=50&status=',
+  level: 'info',
+  timestamp: '2026-05-05  09:51:13'
+}
+{
+  message: 'API hit: GET /api/',
+  level: 'info',
+  timestamp: '2026-05-05  13:09:19'
+}
+{
+  message: 'API hit: GET /api/find-user-by-number',
+  level: 'info',
+  timestamp: '2026-05-05  13:09:46'
+}
+{
+  message: 'API hit: POST /api/find-user-by-number',
+  level: 'info',
+  timestamp: '2026-05-05  13:11:08'
+}
+{
+  message: 'API hit: POST /api/find-user-by-number',
+  level: 'info',
+  timestamp: '2026-05-05  13:13:57'
+}
+{
+  message: 'API hit: POST /api/find-user-by-number',
+  level: 'info',
+  timestamp: '2026-05-05  13:14:21'
+}
+{
+  message: 'API hit: POST /api/register-user',
+  level: 'info',
+  timestamp: '2026-05-05  13:16:19'
+}
+{
+  length: 202,
+  name: 'error',
+  severity: 'ERROR',
+  code: '22008',
+  detail: undefined,
+  hint: 'Perhaps you need a different "datestyle" setting.',
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "unnamed portal parameter $3 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4106',
+  routine: 'DateTimeParseError',
+  level: 'error',
+  message: 'Error in RegisterUser:  date/time field value out of range: "1777967179"',
+  stack: 'error: date/time field value out of range: "1777967179"\n' +
+    '    at E:\\TechHira - Projects\\N8N\\node_modules\\pg-pool\\index.js:45:11\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2026-05-05  13:16:22'
+}
+{
+  message: 'API hit: POST /api/register-user',
+  level: 'info',
+  timestamp: '2026-05-05  13:17:12'
+}
+{
+  length: 202,
+  name: 'error',
+  severity: 'ERROR',
+  code: '22008',
+  detail: undefined,
+  hint: 'Perhaps you need a different "datestyle" setting.',
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "unnamed portal parameter $3 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4106',
+  routine: 'DateTimeParseError',
+  level: 'error',
+  message: 'Error in RegisterUser:  date/time field value out of range: "1777967232"',
+  stack: 'error: date/time field value out of range: "1777967232"\n' +
+    '    at E:\\TechHira - Projects\\N8N\\node_modules\\pg-pool\\index.js:45:11\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2026-05-05  13:17:15'
+}
+{
+  message: 'API hit: POST /api/register-user',
+  level: 'info',
+  timestamp: '2026-05-05  13:19:24'
+}
+{
+  message: 'API hit: POST /api/find-user-by-number',
+  level: 'info',
+  timestamp: '2026-05-05  13:19:41'
+}
+{
+  message: 'API hit: GET /api/job-list',
+  level: 'info',
+  timestamp: '2026-05-05  13:20:22'
+}
+{
+  message: 'API hit: POST /api/check-user-active-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:10:33'
+}
+{
+  message: 'API hit: POST /api/check-user-active-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:10:44'
+}
+{
+  message: 'API hit: POST /api/apply-for-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:12:08'
+}
+{
+  length: 202,
+  name: 'error',
+  severity: 'ERROR',
+  code: '22008',
+  detail: undefined,
+  hint: 'Perhaps you need a different "datestyle" setting.',
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "unnamed portal parameter $4 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4106',
+  routine: 'DateTimeParseError',
+  level: 'error',
+  message: 'Error in ApplyForJob:  date/time field value out of range: "1777974131"',
+  stack: 'error: date/time field value out of range: "1777974131"\n' +
+    '    at E:\\TechHira - Projects\\N8N\\node_modules\\pg-pool\\index.js:45:11\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  timestamp: '2026-05-05  15:12:11'
+}
+{
+  message: 'API hit: POST /api/apply-for-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:15:11'
+}
+{
+  message: 'API hit: POST /api/check-user-active-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:15:26'
+}
+{
+  message: 'API hit: POST /api/check-user-active-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:17:08'
+}
+{
+  message: 'API hit: POST /api/leave-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:18:02'
+}
+{
+  message: 'API hit: POST /api/check-user-active-job',
+  level: 'info',
+  timestamp: '2026-05-05  15:18:11'
+}
+{
+  message: 'API hit: GET /',
+  level: 'info',
+  timestamp: '2026-05-05  15:32:24'
+}
